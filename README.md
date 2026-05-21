@@ -7,6 +7,7 @@
 - <h2>🤖 Mizo Mood Predictor (AI + NLP)</h2>
 - <h2>🌱 Eco-Swipe (Sustainability App)</h2>
 - <h2>🏥 Smart First Aid Assistant (AI-based)</h2>
+- <h2>🌾 GRAMSAKHI (Rural Healthcare & Emergency Support Platform)</h2>
 <h3>
  
 </h3>
