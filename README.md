@@ -15,7 +15,7 @@
 </span>
 - my Portfolio https://portfolio-smoky-nu-62.vercel.app/
 
-- 👨‍💻 All of my projects are available at https://github.com/achu-achutha](https://github.com/achu-achutha)
+- 👨‍💻 All of my projects are available at https://github.com/achu-achutha
 
 - 📫 How to reach me **gayatrikodamati@gmail.com**
 
