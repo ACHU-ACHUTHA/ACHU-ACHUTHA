@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gayatrikodamati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aeaHluEoG4ZoTH4UTNr9e6OAg6H6-mVc/view?usp=sharing](https://drive.google.com/file/d/1aeaHluEoG4ZoTH4UTNr9e6OAg6H6-mVc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WGTPVi2QJKznsr0x4AYcotehjUIUb4B-/view?usp=sharing](https://drive.google.com/file/d/1WGTPVi2QJKznsr0x4AYcotehjUIUb4B-/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
